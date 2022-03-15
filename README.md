@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m @cpn595
 - 👀 I’m interested in AI, Machine Learning, Coding, Multimedia production and article, books, online classes creation.
-- 🌱 I’m currently learning GO Lang
+- 🌱 I’m currently remembering how to think like a coder!
 - 💞️ I’m looking to collaborate on everything I am invited that matches myself 
 - 📫 How to reach me ... I doubt anyone would like to reach me, but, anyways, webpageshpro@protonmail.com
 
